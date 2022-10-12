@@ -1,2 +1,1 @@
-# rec-sys-papers
-RecSys Papers
+# RecSys Papers

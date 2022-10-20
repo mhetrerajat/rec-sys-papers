@@ -185,3 +185,4 @@ Recommender Systems | The Web Conference 2022 | [Link](https://dl.acm.org/doi/pd
 ## References
 
 - https://kdd.org/kdd2022/toc.html
+- https://www2022.thewebconf.org/accepted-papers/
